@@ -2,7 +2,7 @@
 
 ## Overview
 
-The "Philosophers of Ecole 42" project is an implementation of the dining philosophers problem. The project simulates philosophers sitting at a round table, alternating between eating, thinking, and sleeping, with the challenge of avoiding deadlock and resource contention.
+The "Philosophers" project is an implementation of the dining philosophers problem. The project simulates philosophers sitting at a round table, alternating between eating, thinking, and sleeping, with the challenge of avoiding deadlock and resource contention.
 
 ## Table of Contents
 
